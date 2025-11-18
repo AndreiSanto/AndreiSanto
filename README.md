@@ -83,4 +83,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    width="30px" 
+    style="padding-right:10px;" 
+    title="Mysql" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+/>
+
 <br/><br/>
